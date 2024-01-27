@@ -16,7 +16,6 @@ ul{
     text-align: center;
     display: flex;
     flex-direction: column;
-    list-style: circle;
 }
 body{   
     background-color: #d9d9d9;
