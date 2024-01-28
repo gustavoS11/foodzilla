@@ -1,0 +1,25 @@
+header{
+    background-color: #b22020;
+    display: flex;
+    flex-direction: row;
+    list-style: circle;
+    box-shadow: 1px 3px 4px 2px #250505;
+}
+#div-logo{
+    text-align: center;
+}
+#img-logo{
+min-width: 200px;
+}
+.img-header{
+    max-width: 120px;
+}
+.div{
+    text-align: center;
+}
+input{
+    font-size: medium;
+}
+label{
+    font-size: x-large;
+}
